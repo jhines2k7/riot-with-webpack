@@ -1,3 +1,5 @@
 /.idea/
 /riot-with-webpack.iml
 /node_modules/
+/dist/
+/npm-debug.log
